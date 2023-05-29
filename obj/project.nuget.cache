@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "pTtS6RRxBC9fbsLQoXJZHTnxBVX36E4GBN4qL1/QvGyfsXED29VrqyrTl+mYH8kKf4FZ0aub0SPsQ6whamT8ng==",
+  "dgSpecHash": "iYU5SBZQZIOKQHbDXVxkn1ZkgYqu5KYmB8Mw7KqjdctaX5dF8CZDlA+P8ncdkNfmd3RL0FvoaYEFCTsGoBHGaw==",
   "success": true,
   "projectFilePath": "C:\\github\\webcam-edge-detection-csharp-emgu\\webcam-edge-detection-csharp-emgu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brand\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\emgu.cv.runtime.windows\\4.7.0.5276\\emgu.cv.runtime.windows.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.arm64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.arm64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x64.19.35.32217.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.35.32217.1\\emgu.runtime.windows.msvc.rt.x86.19.35.32217.1.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
