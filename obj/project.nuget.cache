@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "rFOxKNiOiu2BqN7kDs8dGLm8hqS53u1iE8ef03YquQvjE8svT3FeZYkaW7Tsl7y/v2fyWfUBcnQ5mrigfYUEww==",
+  "dgSpecHash": "pTtS6RRxBC9fbsLQoXJZHTnxBVX36E4GBN4qL1/QvGyfsXED29VrqyrTl+mYH8kKf4FZ0aub0SPsQ6whamT8ng==",
   "success": true,
   "projectFilePath": "C:\\github\\webcam-edge-detection-csharp-emgu\\webcam-edge-detection-csharp-emgu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\emgu.cv\\4.7.0.5276\\emgu.cv.4.7.0.5276.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

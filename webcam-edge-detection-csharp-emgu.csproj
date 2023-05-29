@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.7.0.5276" />
+  </ItemGroup>
+
 </Project>
